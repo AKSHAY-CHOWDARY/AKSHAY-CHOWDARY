@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently enhancing my expertise in LangChain and fine-tuning large language models (LLMs). I am eager to collaborate on innovative projects in web development using MERN stack and Next.js.<br><br>In addition, I work on improving my Data Structures and Algorithms (DSA) skills every day, with a deep passion for Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI).<br><br>Let’s connect and build something amazing!<br><br>
+Hi there! I'm Akshay Chowdary — a passionate Computer Science student with a focus on Web Development, AI/ML, and Generative AI. I love building full-stack applications using the MERN stack and Next.js, and I'm currently diving deep into LangChain and LLM fine-tuning.<br><br>Beyond development, I consistently strengthen my foundation in Data Structures & Algorithms and explore the latest advancements in Machine Learning, Deep Learning, and AI-powered tools. I'm always open to collaboration, hackathons, and innovative tech projects.<br><br>Let’s connect and create something impactful!<br><br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I am currently enhancing my expertise in LangChain and fine-tuning large languag
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AKSHAY-CHOWDARY&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AKSHAY-CHOWDARY&icon=5&color=2)](https://visitcount.itsvg.in)
