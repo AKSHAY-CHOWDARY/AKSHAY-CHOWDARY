@@ -60,10 +60,23 @@ I’m **Akshay Chowdary**, a passionate full-stack developer and national hackat
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AKSHAY-CHOWDARY&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=AKSHAY-CHOWDARY&theme=gotham&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAY-CHOWDARY&theme=gotham&hide_border=false&layout=compact)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AKSHAY-CHOWDARY&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAY-CHOWDARY&theme=gotham&hide_border=false&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=AKSHAY-CHOWDARY&theme=gotham&hide_border=false" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
