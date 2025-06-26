@@ -4,7 +4,8 @@ I’m **Akshay Chowdary**, a passionate full-stack developer and national hackat
 🏆 Winner of **1st place at BITS TechXcelerate Hackathon** (700+ teams)  
 💼 Active freelancer delivering scalable, intelligent web solutions that merge AI innovation with robust backend architecture.
 
-![Profile Views](https://profile-view-counter-jcp1.onrender.com/api/view-counter?username=AKSHAY-CHOWDARY)
+![Profile Views](https://komarev.com/ghpvc/?username=AKSHAY-CHOWDARY&color=blue&base=1632)
+
 
 
 ---
