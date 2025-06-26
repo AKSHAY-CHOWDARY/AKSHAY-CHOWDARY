@@ -67,8 +67,8 @@ I’m **Akshay Chowdary**, a passionate full-stack developer and national hackat
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AKSHAY-CHOWDARY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Highlights
+![](https://github-profile-trophy.vercel.app/?username=AKSHAY-CHOWDARY&theme=radical&no-frame=true&no-bg=true&margin-w=10&title=Commits,Repositories,PullRequest,Followers)
 
 ---
 
