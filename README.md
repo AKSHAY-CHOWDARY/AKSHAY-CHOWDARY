@@ -2,7 +2,7 @@
 I’m **Akshay Chowdary**, a passionate full-stack developer and national hackathon winner, with a strong foundation in **Data Structures & Algorithms**. I have hands-on expertise in the **MERN stack** and **Next.js**, and specialize in building **Generative AI applications** — including AI-powered resume builders, job matchers, and real-time platforms.
 
 🏆 Winner of **1st place at BITS TechXcelerate Hackathon** (700+ teams)  
-💼 Active freelancer delivering scalable, intelligent web solutions that merge AI innovation with robust backend architecture.
+🧑🏻‍💻 Knight @LeetCode
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AKSHAY-CHOWDARY&color=blue&base=632)
 
